@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EdiFiles", "EdiFiles", "{576B3017-F526-4C62-B969-6825D5A88115}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "X270-271_Health_Care_Eligability", "X270-271_Health_Care_Eligability", "{58D406AF-57D6-4868-9E12-C98DC6C722D4}"
+	ProjectSection(SolutionItems) = preProject
+		270-271_Notes.txt = 270-271_Notes.txt
+		EdiFiles\X279_Health_Care_Eligability\X279-error-response-from-payer-to-clinic-not-eligible-for-inquiries-with-payer.edi = EdiFiles\X279_Health_Care_Eligability\X279-error-response-from-payer-to-clinic-not-eligible-for-inquiries-with-payer.edi
+		EdiFiles\X279_Health_Care_Eligability\X279-generic-request-by-clinic-for-patient-(subscriber)-eligibility.edi = EdiFiles\X279_Health_Care_Eligability\X279-generic-request-by-clinic-for-patient-(subscriber)-eligibility.edi
+		EdiFiles\X279_Health_Care_Eligability\X279-generic-request-by-physician-for-patient-(dependent)-eligibility.edi = EdiFiles\X279_Health_Care_Eligability\X279-generic-request-by-physician-for-patient-(dependent)-eligibility.edi
+		EdiFiles\X279_Health_Care_Eligability\X279-response-to-generic-request-by-clinic-for-patient-(subscriber)-eligibility.edi = EdiFiles\X279_Health_Care_Eligability\X279-response-to-generic-request-by-clinic-for-patient-(subscriber)-eligibility.edi
+		EdiFiles\X279_Health_Care_Eligability\X279-response-to-generic-request-by-physician-for-patient-(dependent)-eligibility.edi = EdiFiles\X279_Health_Care_Eligability\X279-response-to-generic-request-by-physician-for-patient-(dependent)-eligibility.edi
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "820", "820", "{980D479D-FD8A-45D6-8147-AE1B7373C13C}"
+	ProjectSection(SolutionItems) = preProject
+		820_Notes.txt = 820_Notes.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "834", "834", "{FDD8634B-A495-450C-AFCE-8CCAD0465777}"
+	ProjectSection(SolutionItems) = preProject
+		834_Notes.txt = 834_Notes.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "835", "835", "{6D2A2318-20E5-4839-91A1-6FE3D43877E9}"
+	ProjectSection(SolutionItems) = preProject
+		835_Notes.txt = 835_Notes.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "837", "837", "{CBC0DB7A-7777-45A3-B433-2E64BED4A45A}"
+	ProjectSection(SolutionItems) = preProject
+		837_Notes.txt = 837_Notes.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdiFileInterpreter.WinForm", "EdiFileInterpreter.WinForm\EdiFileInterpreter.WinForm.csproj", "{679BC3ED-7583-4085-940F-A369172DDDE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdiFileInterpreter.WinForm.Tests", "EdiFileInterpreter.WinForm.Tests\EdiFileInterpreter.WinForm.Tests.csproj", "{39EECABE-7634-4E7C-831A-BEB02534C315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdiFileInterpreter.Libraries", "EdiFileInterpreter.Libraries\EdiFileInterpreter.Libraries.csproj", "{194C6ABB-35FF-48C9-974B-1718740E897B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{679BC3ED-7583-4085-940F-A369172DDDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679BC3ED-7583-4085-940F-A369172DDDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679BC3ED-7583-4085-940F-A369172DDDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679BC3ED-7583-4085-940F-A369172DDDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39EECABE-7634-4E7C-831A-BEB02534C315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39EECABE-7634-4E7C-831A-BEB02534C315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39EECABE-7634-4E7C-831A-BEB02534C315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39EECABE-7634-4E7C-831A-BEB02534C315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{194C6ABB-35FF-48C9-974B-1718740E897B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{194C6ABB-35FF-48C9-974B-1718740E897B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{194C6ABB-35FF-48C9-974B-1718740E897B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{194C6ABB-35FF-48C9-974B-1718740E897B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{58D406AF-57D6-4868-9E12-C98DC6C722D4} = {576B3017-F526-4C62-B969-6825D5A88115}
+		{980D479D-FD8A-45D6-8147-AE1B7373C13C} = {576B3017-F526-4C62-B969-6825D5A88115}
+		{FDD8634B-A495-450C-AFCE-8CCAD0465777} = {576B3017-F526-4C62-B969-6825D5A88115}
+		{6D2A2318-20E5-4839-91A1-6FE3D43877E9} = {576B3017-F526-4C62-B969-6825D5A88115}
+		{CBC0DB7A-7777-45A3-B433-2E64BED4A45A} = {576B3017-F526-4C62-B969-6825D5A88115}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B70A9EE-6B70-4E8F-AE4F-A3768AAEDF48}
+	EndGlobalSection
+EndGlobal

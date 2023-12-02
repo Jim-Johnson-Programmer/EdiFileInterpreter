@@ -1,0 +1,2 @@
+835 — Health Care Claim Payment/Advice
+https://x12.org/examples/005010x221

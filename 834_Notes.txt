@@ -1,0 +1,8 @@
+834 — Benefit Enrollment and Maintenance
+https://x12.org/examples/005010x220
+
+834 — Health Insurance Exchange: Enrollment
+https://x12.org/examples/005010x307
+
+834 — Plan Member Reporting
+https://x12.org/examples/005010x318

@@ -1,0 +1,14 @@
+837 — Health Care Claim: Institutional
+https://x12.org/examples/005010x223
+
+837 — Health Care Claim: Professional
+https://x12.org/examples/005010x222
+
+837 — Health Care Predetermination: Institutional
+https://x12.org/examples/005010x292
+
+837 — Health Care Predetermination: Professional
+https://x12.org/examples/005010x291
+
+837 — Post Adjudicated Claims Data Reporting: Professional
+https://x12.org/examples/005010x298
